@@ -1,0 +1,7 @@
+
+
+validationRules = {
+    name : {
+        
+    }
+}
